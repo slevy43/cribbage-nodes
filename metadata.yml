@@ -1,0 +1,12 @@
+---
+:id: 3038953
+:submitters:
+- :name: Spencer Charles Levy
+  :email: slevy43@uwo.ca
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-03-01 02:00:30.365535000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-02-28 18:00:30.365535000 Z
+:status: processed
+:score: 17.5
